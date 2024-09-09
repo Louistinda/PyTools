@@ -1,0 +1,1 @@
+python -m nuitka --mingw64 --standalone --output-dir=out --show-progress --onefile --enable-plugin=pyside6 --disable-console --windows-icon-from-ico="icon_64x64.ico"  PicPicker.py
